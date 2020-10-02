@@ -1,0 +1,13 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt" AutoExportFunctions="True" AutoExportPS1XMLFiles="True">
+  <Version>2.1</Version>
+  <FileID>711ec59d-66ee-44f5-a3e8-15dbd0f6580c</FileID>
+  <ProjectType>1</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="2">BioShell.rclone.psd1</File>
+    <File Build="0" ExportFunctions="True">BioShell.rclone.psm1</File>
+    <File Build="1" Shared="False" ReferenceFunction="Invoke-Test-Module_ps1" ExportFunctions="False">Test-Module.ps1</File>
+    <File Build="1">.gitignore</File>
+  </Files>
+  <StartupScript>C:\Users\abhi1\Projects\code\ORG_biosharp_dotnet\BioShell\BioShell.rclone\Test-Module.ps1</StartupScript>
+</Project>
