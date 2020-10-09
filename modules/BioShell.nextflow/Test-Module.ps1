@@ -21,13 +21,13 @@
 
 
 #Explicitly import the module for testing
-Import-Module 'BioShell.rclone'
+Import-Module 'BioShell.nextflow'
 
 #Run each module function
 Write-HelloWorld
 
 #Sample Pester Test
-#Describe "Test BioShell.rclone" {
+#Describe "Test BioShell.nextflow" {
 #	It "tests Write-HellowWorld" {
 #		Write-HelloWorld | Should BeExactly "Hello World"
 #	}	

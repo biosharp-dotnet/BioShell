@@ -2,11 +2,11 @@
 	===========================================================================
 	 Created by:   	abhi18av
 	 Organization: 	BioSharp.net
-	 Filename:     	BioShell.rclone.psd1
+	 Filename:     	BioShell.psd1
 	 -------------------------------------------------------------------------
 	 Module Manifest
 	-------------------------------------------------------------------------
-	 Module Name: BioShell.rclone
+	 Module Name: BioShell
 	===========================================================================
 #>
 
@@ -14,13 +14,13 @@
 @{
 	
 	# Script module or binary module file associated with this manifest
-	RootModule = 'BioShell.rclone.psm1'
+	RootModule = 'BioShell.psm1'
 	
 	# Version number of this module.
 	ModuleVersion = '1.0.0.0'
 	
 	# ID used to uniquely identify this module
-	GUID = '711ec59d-66ee-44f5-a3e8-15dbd0f6580c'
+	GUID = '181ec59d-66ee-44f5-a3e8-15dbd0f6580c'
 	
 	# Author of this module
 	Author = 'abhi18av'

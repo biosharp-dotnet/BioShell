@@ -2,9 +2,9 @@
 	===========================================================================
 	 Created by:   	abhi18av
 	 Organization: 	BioSharp.net
-	 Filename:     	BioShell.rclone.psm1
+	 Filename:     	BioShell.nextflow.psm1
 	-------------------------------------------------------------------------
-	 Module Name: BioShell.rclone
+	 Module Name: BioShell.nextflow
 	===========================================================================
 #>
 
